@@ -1,4 +1,4 @@
-# **TUGAS BESAR STATISTIKA**
+**TUGAS BESAR STATISTIKA**
 ---------------------------------------------------------------------
 ### **KELOMPOK 20**
 ***Nama Anggota :***
@@ -6,6 +6,7 @@
 - **Prinintya Nuri Alifa (1301204085)**
 - **Hanifatul Insan (1301204124)**
 
+----------------------------------------------------------------------
 **Studi Kasus Tentang Karakteristik Pemegang
 Kartu Kredit Pada Suatu Bank**
 
